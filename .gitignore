@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+venv/
+data/users.db
+data/temp_live.jpg
+*.pdf
+.idea/
+.vscode/
