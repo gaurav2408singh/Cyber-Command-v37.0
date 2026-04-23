@@ -6,3 +6,4 @@ data/temp_live.jpg
 *.pdf
 .idea/
 .vscode/
+*.png
